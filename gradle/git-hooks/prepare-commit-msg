@@ -1,3 +1,4 @@
+#!/bin/sh
 commitMsgFile=$1
 commitSource=$2
 commitMsgContent=$(cat "$commitMsgFile")
